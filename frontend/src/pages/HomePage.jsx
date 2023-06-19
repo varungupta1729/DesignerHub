@@ -55,7 +55,7 @@ import FloatingButton from './FloatingButton';
 import BottomTab from './BottomTab';
 import Example from '../components/cards/Card';
 import SliderComponent from '../components/cards/Card';
-
+import Uploader from '../components/Uploader/Uploader';
 const HomePage = () => {
   return (
     <div>
@@ -77,6 +77,7 @@ const HomePage = () => {
         <FeaturedProduct />
         {/* <Sponsored /> */}
         {/* <SliderComponent/> */}
+        <Uploader/>
         <Footer />
         <Appthemeselector/>
         {/* <BottomTab className="bottomtab-mobile" /> */}
