@@ -10,7 +10,7 @@ export const navItems = [
     },
     {
       title: "Design",
-      url: "https://wedesignetshirts.netlify.app/",
+      url: "/design",
     },
     {
       title: "Events",
