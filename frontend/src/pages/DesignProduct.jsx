@@ -4,7 +4,6 @@ import styles from "../styles/styles";
 const DesignProduct = () => {
   return (
     <div>
-     
       {/* ====== Blog Section Start */}
       <section className="pt-20 pb-10 lg:pt-[120px] lg:pb-20 text-[var(--text-dark)]">
         <div className="container mx-auto">
