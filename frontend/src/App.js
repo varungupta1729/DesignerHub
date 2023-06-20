@@ -8,6 +8,7 @@ import {
   HomePage,
   ProductsPage,
   BestSellingPage,
+  Design,
   EventsPage,
   FAQPage,
   CheckoutPage,
@@ -21,6 +22,7 @@ import {
   OrderDetailsPage,
   TrackOrderPage,
   UserInbox,
+  
 } from "./routes/Routes.js";
 import {
   ShopDashboardPage,
@@ -107,6 +109,7 @@ const App = () => {
         <Route path="/products" element={<ProductsPage />} />
         <Route path="/product/:id" element={<ProductDetailsPage />} />
         <Route path="/best-selling" element={<BestSellingPage />} />
+        <Route path="/Design" element={<Design />} />
         <Route path="/events" element={<EventsPage />} />
         <Route path="/faq" element={<FAQPage />} />
         <Route
