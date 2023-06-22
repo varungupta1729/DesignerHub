@@ -9,7 +9,8 @@
   "scripts": {
     "dev": "nodemon server.js",
     "start": "node server.js",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false"
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false",
+    "build": "npm i"
   },
   "author": "shahriar Sajeeb",
   "license": "ISC",
