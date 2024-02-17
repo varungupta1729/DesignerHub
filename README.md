@@ -1,5 +1,4 @@
-##_**DISCLAIMER**_
-This project has moved maintainers and is no longer developed here. The up to date template can be found [here](https://github.com/rennemannd/MERN-Template).
+
 
 #### _**IMPORTANT NOTE**_ - 
 This project does not have a mongoDB connection setup. Setup the connection based on the environments below.
@@ -62,7 +61,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 If deploying to heroku this does not need to be run since it is handled by the heroku-postbuild script<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information
 
 ## Learn More
 
